@@ -3,3 +3,5 @@ node_js:
   - v7
   - v6
   - v4
+
+# Triggering travis again because coveralls wasn't added
