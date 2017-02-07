@@ -1,4 +1,4 @@
-# gulp-sweetsanitizer [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+# gulp-sweetsanitizer [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Deps][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
 > A param sanitizer that reads your JSDoc.
 
 ## Table of contents
